@@ -3,7 +3,7 @@
 A Python implementation based on [unofficial documentation](https://tesla-api.timdorr.com/) of the client side interface to the Tesla Motors Owner API, which provides functionality to monitor and control Tesla products remotely.
 
 [![Version](https://img.shields.io/pypi/v/TeslaPy)](https://pypi.org/project/TeslaPy)
-[![Downloads](https://static.pepy.tech/badge/TeslaPy/month)](https://pepy.tech/project/TeslaPy)
+[![Downloads](https://static.pepy.tech/badge/TeslaPy/month)](https://pepy.tech/project/TeslaPy) 
 
 ## Overview
 
